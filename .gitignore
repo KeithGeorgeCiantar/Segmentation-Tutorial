@@ -1,4 +1,5 @@
 *.zip
 *__MACOSX*
+*DS_Store*
 *shapes_dataset*
 *checkpoints*
